@@ -1,0 +1,3 @@
+#!/bin/bash
+telnet towel.blinkelights.nl
+103-Star_wars
